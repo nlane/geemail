@@ -1,0 +1,9 @@
+FIO47-C. Use valid format strings
+
+
+ERR51-CPP. Handle all exceptions
+
+ERR50-CPP. Do not abruptly terminate the program
+
+We didn't do this one ERR57-CPP. Do not leak resources when handling exceptions
+
